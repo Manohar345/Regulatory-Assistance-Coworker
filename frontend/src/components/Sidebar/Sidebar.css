@@ -11,4 +11,10 @@
   display: flex;
   align-items: center;
   gap: 10px;
+  text-decoration: none;
+  cursor: default;
+}
+
+.sidebar h3 span {
+  cursor: pointer;
 }
