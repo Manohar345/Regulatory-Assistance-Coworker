@@ -9,7 +9,7 @@ function Navbar(){
             </div>
             <div id="title-container"> 
                 <h1>Regulatory Assistance Coworker</h1>
-                <h4>AI Powered Regulatory Support Agent for git hub</h4>
+                <h4>AI Powered Regulatory Support Agent</h4>
             </div>
         </div>
     )
